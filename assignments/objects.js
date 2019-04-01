@@ -26,8 +26,8 @@ const intern1 = {
 };
 
 const intern2 = {
-  name: "Kennan",
   id: 2,
+  name: "Kennan",
   email: "kdiben1@tinypic.com",
   gender: "M"
 };
